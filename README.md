@@ -22,9 +22,10 @@ gemini-clone/
 ├── src/
 │   ├── components/
 │   │   └── searchBar.jsx          # Main chat interface component
+|   |   --- leftDrawerMenu.jsx     # menu drawer added 
 │   ├── styles/
 │   │   └── searchBar.css          # Styling for chat interface
-│   │     
+│   │   --- leftDrawerMenu.css     $ styling for menu drawer
 │   ├── App.jsx                    # Main application component
 │   ├── App.css                    # Global styles
 │   └── index.jsx                  # Application entry point
